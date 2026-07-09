@@ -41,3 +41,6 @@ The system displays real-time temperature and humidity values and uploads them t
 
 ## Author
 Mohammed Aadil
+
+## Demo Video
+https://drive.google.com/file/d/1mng5JZRKqdfx45_q3-qaT7ZTd7i8i-6n/view?usp=sharing
