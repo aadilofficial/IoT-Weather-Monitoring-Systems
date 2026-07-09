@@ -1,7 +1,7 @@
 # IoT Weather Monitoring System
 
 ## Overview
-The IoT Weather Monitoring System monitors environmental parameters such as temperature and humidity using sensors connected to an ESP8266/ESP32. The data is uploaded to the cloud for real-time monitoring.
+The IoT Weather Monitoring System monitors environmental parameters such as temperature and humidity using sensors connected to an ESP8266. The data is uploaded to the cloud for real-time monitoring.
 
 ## Features
 - Real-time temperature monitoring
